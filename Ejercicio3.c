@@ -9,5 +9,6 @@ int main()
     scanf("%s",nombre);
 
 printf("Hola %s\n",nombre);
+    
     return 0;
 }
